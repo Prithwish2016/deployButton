@@ -1,4 +1,4 @@
-# Bangalore-gbs-bootcamp
+# Kolkata-gbs-bootcamp
 
 ####[configuration](https://github.com/wpannell/angularjs-1.x-reference-app/wiki/configuration)
 
